@@ -10,6 +10,4 @@ This a new line.
 
 # Section 2
 
-A short overview.
-
 ## Section 2.1
