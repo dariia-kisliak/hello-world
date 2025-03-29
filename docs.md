@@ -10,6 +10,6 @@ This a new line.
 
 # Section 2
 
-A short overview.
+A short overview of product features.
 
 ## Section 2.1
