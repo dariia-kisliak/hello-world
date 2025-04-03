@@ -13,3 +13,9 @@ This a new line.
 A short overview of product features.
 
 ## Section 2.1
+
+This is a list of items:
+
+- Item 1
+- Item 2
+- Item 3
