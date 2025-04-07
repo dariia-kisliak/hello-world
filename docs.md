@@ -19,3 +19,7 @@ This is a list of items:
 - Item 1
 - Item 2
 - Item 3
+
+## Section 2.2
+
+This is the list of features:
